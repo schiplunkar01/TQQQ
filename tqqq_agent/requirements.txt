@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+lightgbm
+torch
+scikit-learn
+joblib
+python-dotenv
+requests
